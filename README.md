@@ -1,2 +1,2 @@
 # network-synthetic-traffic-generator
-network-synthetic-traffic-generator
+Network Synthetic Traffic Generator (NSTG)
